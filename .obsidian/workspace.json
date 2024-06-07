@@ -11,8 +11,12 @@
             "id": "1b1fc8fd0ab069a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "React-Desktop/src/store/slices/frames/reducer.ts.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React-Desktop/src/store/slices/frames/reducer.ts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React-Desktop/src/store/slices/frames/reducer.ts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "React-Desktop/src/store/slices/frames/reducer.ts.md"
+              }
             }
           }
         ]
@@ -139,5 +147,32 @@
     }
   },
   "active": "1b1fc8fd0ab069a0",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "React-Desktop/src/store/slices/frames/reducer.ts prompt.md",
+    "React-Desktop/src/store/slices/frames/reducer.ts.md",
+    "React-Desktop/src/store/slices/frames/actions.ts.md",
+    "React-Desktop/src/types/types/FileType.md",
+    "React-Desktop/src/store/slices/frames/未命名",
+    "React-Desktop/src/store/slices/frames",
+    "React-Desktop/src/types/types/FrameType.md",
+    "React-Desktop/src/types/types/FileTypeEnum.md",
+    "React-Desktop/src/types/types/FrameViewStateEnum.md",
+    "React-Desktop/src/types/types/FrameAppTypeEnum.md",
+    "React-Desktop/src/types/index.tsx.md",
+    "React-Desktop/src/types/types",
+    "React-Desktop/src/store/slices/slices.md",
+    "React-Desktop/src/types",
+    "React-Desktop/src/store/slices/os/reducer.ts.md",
+    "React-Desktop/src/store/slices/os/未命名.md",
+    "React-Desktop/src/store/slices/os/actions.ts.md",
+    "React-Desktop/src/store/index.tsx.md",
+    "React-Desktop/src/store/slices/os",
+    "React-Desktop/src/store/slices",
+    "React-Desktop/src/index.tsx.md",
+    "React-Desktop/src/store",
+    "React-Desktop/src/App.tsx.md",
+    "React-Desktop/src",
+    "React-Desktop/React-Desktop.md",
+    "React-Desktop"
+  ]
 }
