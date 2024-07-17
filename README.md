@@ -17,4 +17,6 @@
 
 ## 项目列表
 
-- [React-Desktop](./React-Desktop/README.md.md)：一个模拟操作系统桌面风格的React应用程序，提供了可拖拽、可调整大小的窗口框架、窗口管理、嵌入式浏览器、文本查看器和图片查看器等功能。
+- [React-Desktop](./React-Desktop/README.md)：一个模拟操作系统桌面风格的 React 应用程序，提供了可拖拽、可调整大小的窗口框架、窗口管理、嵌入式浏览器、文本查看器和图片查看器等功能。
+
+- [wereader](./wereader/README.md)： 一个功能全面的微信读书笔记助手 wereader。
